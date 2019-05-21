@@ -1,5 +1,4 @@
 # ionic4-camera-demo
-getting 
 
 ## Getting Started
 ```
